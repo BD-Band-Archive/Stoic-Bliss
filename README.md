@@ -57,9 +57,9 @@ Released in June 2006 under the legendary label G-Series, *Light Years Ahead* (a
 
 | | |
 | :---: | :---: |
-| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BBack%5D.jpg" width="300" alt="2. Back Cover" /><br><sub><b>2. Back Cover</b></sub> |
-| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BInlet%5D.jpg" width="300" alt="4. Tray Inlay" /><br><sub><b>4. Tray Inlay</b></sub> |
-| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BPoster%5D.jpg" width="300" alt="5. Poster & Lyrics" /><br><sub><b>5. Poster & Lyrics</b></sub> |  |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront-Digital%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront-Back%5D.jpg" width="300" alt="2. Back Cover" /><br><sub><b>2. Back Cover</b></sub> |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BInlay%5D.jpg" width="300" alt="4. Tray Inlay" /><br><sub><b>4. Tray Inlay</b></sub> |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCassette%20Sleeve-1%5D.jpg" width="300" alt="5. Poster & Lyrics" /><br><sub><b>5. Poster & Lyrics</b></sub> |  |
 
 ---
 
@@ -110,6 +110,9 @@ Released in 2007 as the highly anticipated second studio album, *Kolponar Baire*
 - **Artist:** Stoic Bliss
 - **Audio Quality:** Lossless FLAC & High-Quality MP3
 
+
+- **Audio Quality:** Lossless FLAC & High-Quality MP3
+
 ### 📖 About the Release
 High-fidelity remastered editions of Stoic Bliss's iconic defining classics and club anthems from the golden 2000s era, restored and enhanced with crisp punchy beats, deep bass, and pristine vocal clarity.
 
@@ -130,6 +133,9 @@ High-fidelity remastered editions of Stoic Bliss's iconic defining classics and 
 ## 4. Singles & Collaborations
 
 - **Artist:** Stoic Bliss
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
+
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 ### 📖 About the Release
