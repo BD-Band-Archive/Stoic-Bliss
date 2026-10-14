@@ -110,8 +110,9 @@ Released in 2007 as the highly anticipated second studio album, *Kolponar Baire*
 - **Artist:** Stoic Bliss
 - **Audio Quality:** Lossless FLAC & High-Quality MP3
 
-
-- **Audio Quality:** Lossless FLAC & High-Quality MP3
+<p align="center">
+  <img src="2000%27s%20Hits%20Re-Mastered/cover.jpg" width="300" alt="2000's Hits Re-Mastered Cover" />
+</p>
 
 ### 📖 About the Release
 High-fidelity remastered editions of Stoic Bliss's iconic defining classics and club anthems from the golden 2000s era, restored and enhanced with crisp punchy beats, deep bass, and pristine vocal clarity.
@@ -133,9 +134,6 @@ High-fidelity remastered editions of Stoic Bliss's iconic defining classics and 
 ## 4. Singles & Collaborations
 
 - **Artist:** Stoic Bliss
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
-
-
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 ### 📖 About the Release
