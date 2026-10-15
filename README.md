@@ -57,9 +57,10 @@ Released in June 2006 under the legendary label G-Series, *Light Years Ahead* (a
 
 | | |
 | :---: | :---: |
-| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront-Digital%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront-Back%5D.jpg" width="300" alt="2. Back Cover" /><br><sub><b>2. Back Cover</b></sub> |
-| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BInlay%5D.jpg" width="300" alt="4. Tray Inlay" /><br><sub><b>4. Tray Inlay</b></sub> |
-| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCassette%20Sleeve-1%5D.jpg" width="300" alt="5. Poster & Lyrics" /><br><sub><b>5. Poster & Lyrics</b></sub> |  |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront-Back%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BFront-Digital%5D.jpg" width="300" alt="2. Front Cover (Alternative Scan)" /><br><sub><b>2. Front Cover (Alternative Scan)</b></sub> |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BInlay%5D.jpg" width="300" alt="3. Tray Inlay Artwork" /><br><sub><b>3. Tray Inlay Artwork</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
+| <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCassette%20Sleeve-1%5D.jpg" width="300" alt="5. Light Years Ahead [Cassette Sleeve-1]" /><br><sub><b>5. Light Years Ahead [Cassette Sleeve-1]</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCassette%20Sleeve-2%5D.jpg" width="300" alt="6. Light Years Ahead [Cassette Sleeve-2]" /><br><sub><b>6. Light Years Ahead [Cassette Sleeve-2]</b></sub> |
+| <img src="Light%20Years%20Ahead/Album%20Covers/cover.jpg" width="300" alt="7. cover" /><br><sub><b>7. cover</b></sub> |  |
 
 ---
 
@@ -128,6 +129,13 @@ High-fidelity remastered editions of Stoic Bliss's iconic defining classics and 
 - [**Stoic Bliss - Twist Of Fate**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Twist%20Of%20Fate.mp3?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-MP3-2ea44f?style=flat-square&logo=audiomack)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Twist%20Of%20Fate.mp3?download=true)
 - [**Stoic Bliss - Twisted**](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Twisted.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Stoic-Bliss/master/2000%27s%20Hits%20Re-Mastered/Stoic%20Bliss%20-%20Twisted.flac?download=true)
 
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="2000%27s%20Hits%20Re-Mastered/Album%20Cover/2000%27s%20Hits%20Re-Mastered%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="2000%27s%20Hits%20Re-Mastered/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
+
 ---
 
 <a id="4-singles--collaborations"></a><a id="6-singles--collaborations"></a>
@@ -153,6 +161,13 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
   git lfs install
   git clone https://github.com/GhostDog45/Stoic-Bliss.git
   ```
+
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Singles/Album%20Cover/Stoic%20Bliss%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
 
 ---
 
