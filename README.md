@@ -134,7 +134,7 @@ High-fidelity remastered editions of Stoic Bliss's iconic defining classics and 
 
 | | |
 | :---: | :---: |
-| <img src="2000%27s%20Hits%20Re-Mastered/Album%20Cover/2000%27s%20Hits%20Re-Mastered%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="2000%27s%20Hits%20Re-Mastered/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
+| <img src="2000%27s%20Hits%20Re-Mastered/Album%20Cover/2000%27s%20Hits%20Re-Mastered%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
@@ -167,7 +167,7 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
 
 | | |
 | :---: | :---: |
-| <img src="Singles/Album%20Cover/Stoic%20Bliss%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
+| <img src="Singles/Album%20Cover/Stoic%20Bliss%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
