@@ -62,6 +62,12 @@ Released in June 2006 under the legendary label G-Series, *Light Years Ahead* (a
 | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCassette%20Sleeve-1%5D.jpg" width="300" alt="5. Light Years Ahead [Cassette Sleeve-1]" /><br><sub><b>5. Light Years Ahead [Cassette Sleeve-1]</b></sub> | <img src="Light%20Years%20Ahead/Album%20Covers/Light%20Years%20Ahead%20%5BCassette%20Sleeve-2%5D.jpg" width="300" alt="6. Light Years Ahead [Cassette Sleeve-2]" /><br><sub><b>6. Light Years Ahead [Cassette Sleeve-2]</b></sub> |
 | <img src="Light%20Years%20Ahead/Album%20Covers/cover.jpg" width="300" alt="7. cover" /><br><sub><b>7. cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Zak (NirZak)
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="2-kolponar-baire"></a><a id="2-kolponar"></a>
@@ -103,6 +109,12 @@ Released in 2007 as the highly anticipated second studio album, *Kolponar Baire*
 | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BPoster%5D.jpg" width="300" alt="3. Promotional Poster & Lyrics" /><br><sub><b>3. Promotional Poster & Lyrics</b></sub> | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BInlay-Front%5D.jpg" width="300" alt="4. Inlay (Front)" /><br><sub><b>4. Inlay (Front)</b></sub> |
 | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> | <img src="KOLPONAR%20BAIRE/Album%20Covers/Kolponar%20Baire%20%5BInlay-Back%5D.jpg" width="300" alt="6. Back Inset" /><br><sub><b>6. Back Inset</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Zak (NirZak)
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="3-2000s-hits-re-mastered"></a>
@@ -136,6 +148,12 @@ High-fidelity remastered editions of Stoic Bliss's iconic defining classics and 
 | :---: | :---: |
 | <img src="2000%27s%20Hits%20Re-Mastered/Album%20Cover/2000%27s%20Hits%20Re-Mastered%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Deezer
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="4-singles--collaborations"></a><a id="6-singles--collaborations"></a>
@@ -168,6 +186,12 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
 | | |
 | :---: | :---: |
 | <img src="Singles/Album%20Cover/Stoic%20Bliss%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** @music_ripper_bot / Bangla Flac Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
