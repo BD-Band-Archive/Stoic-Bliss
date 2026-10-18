@@ -1,0 +1,33 @@
+Album Name: Light Years Ahead
+Album Type: Band
+Release Year: 2006
+Genre: Rap/Hip-Hop
+Total Songs: 14
+Track List:
+01. Intro
+02. Abar Jigae
+03. Party at Piano House
+04. Chow Mei Fun
+05. Prem... Mittur Por
+06. Mayabi Chokh
+07. Sheshbarer Moto
+08. Badman Returns
+09. Bangladesh
+10. The Epitome
+11. Roktim Shinghashon
+12. Deceptive Measures
+13. Ato Raag
+14. Bloopers
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 196 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.2 (2017-01-01)

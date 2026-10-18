@@ -1,0 +1,32 @@
+Album Name: KOLPONAR BAIRE
+Album Type: Band
+Release Year: 2007
+Genre: Hip Hop
+Total Songs: 13
+Track List:
+01. Intro
+02. Abar Abar Jigay
+03. Pakhi Paka Pepe Khay
+04. Acid Ke
+05. Raatri Jaga
+06. Pura Ura Dhura
+07. Shomoyer Palki
+08. Berajaal
+09. Ei Je Ami
+10. Amar Bondhu Bonduk
+11. Sample This
+12. Shapur
+13. Fire Like a Dragon
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 659 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.2 (2017-01-01)
