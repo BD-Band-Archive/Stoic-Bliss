@@ -189,7 +189,7 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
 
 | | |
 | :---: | :---: |
-| <img src="Singles/Album%20Cover/Stoic%20Bliss%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+| <img src="Singles/Album%20Cover/Stoic%20Bliss%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Stoic%20Bliss%20-%20Apeiruss%20-%20Tota%20Pakhi.jpg" width="300" alt="2. Stoic Bliss - Apeiruss - Tota Pakhi" /><br><sub><b>2. Stoic Bliss - Apeiruss - Tota Pakhi</b></sub> |
 
 
 ### 💿 CD Ripper & Preservation Credit
