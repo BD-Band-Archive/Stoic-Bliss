@@ -162,6 +162,10 @@ High-fidelity remastered editions of Stoic Bliss's iconic defining classics and 
 - **Artist:** Stoic Bliss
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+<p align="center">
+  <img src="Singles/Album%20Cover/Stoic%20Bliss%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="Stoic Bliss Singles Cover" />
+</p>
+
 ### 📖 About the Release
 Featured collaborations and standalone singles.
 
